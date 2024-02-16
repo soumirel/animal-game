@@ -4,11 +4,11 @@
 
 #include "TGame.h"
 
-int main(int argc, char* argv[])
+int main( int argc, char* argv[] )
 {
-    system("chcp 65001");
+    system( "chcp 65001" );
 
-    if (argc != 3)
+    if ( argc != 3 )
     {
         std::cout << "Приложению требуется 2 аргумента:\nИмя файла конфгурации машины состояний игры (реплики)\nИмя файла конфигурации игрового дерева (прогресса)";
         return -1;
@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 
     auto* pGame = new GameLogic::TGame();
 
-    pGame->setUp(gameConfig);
+    pGame->setUp( gameConfig );
     pGame->start();
 
     return 0;
