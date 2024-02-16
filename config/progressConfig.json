@@ -1,0 +1,29 @@
+{
+  "content": "живёт в воде",
+  "leftChild": {
+    "content": "из семейства кошачьих",
+    "leftChild": {
+      "content": "летает",
+      "leftChild": {
+        "content": "Зебра",
+        "leftChild": "",
+        "rightChild": ""
+      },
+      "rightChild": {
+        "content": "орёл",
+        "leftChild": "",
+        "rightChild": ""
+      }
+    },
+    "rightChild": {
+      "content": "лев",
+      "leftChild": "",
+      "rightChild": ""
+    }
+  },
+  "rightChild": {
+    "content": "кит",
+    "leftChild": "",
+    "rightChild": ""
+  }
+}
