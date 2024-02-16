@@ -5,3 +5,15 @@
 24	2702	7297766260562140	CMakeFiles/TheAnimalGame.dir/TGameStateMachine.cpp.obj	f94306112fb2cedb
 30	5977	7297766293312579	CMakeFiles/TheAnimalGame.dir/TGame.cpp.obj	ac9ad43f38f1a5aa
 5977	6758	7297766294892586	TheAnimalGame.exe	b74a8276199440ef
+26	921	7297779012770972	CMakeFiles/TheAnimalGame.dir/TState.cpp.obj	9e0f8b7fb401ab7f
+20	926	7297779012810990	CMakeFiles/TheAnimalGame.dir/TStateMachine.cpp.obj	df5f7f3e146253f6
+13	2358	7297779027151113	CMakeFiles/TheAnimalGame.dir/main.cpp.obj	2619f884173ea370
+32	2921	7297779032771189	CMakeFiles/TheAnimalGame.dir/TGameStateMachine.cpp.obj	f94306112fb2cedb
+37	6054	7297779064091351	CMakeFiles/TheAnimalGame.dir/TGame.cpp.obj	ac9ad43f38f1a5aa
+6054	6870	7297779066051358	TheAnimalGame.exe	b74a8276199440ef
+10	1654	7297782856181583	CMakeFiles/TheAnimalGame.dir/main.cpp.obj	2619f884173ea370
+1655	2469	7297782857611477	TheAnimalGame.exe	b74a8276199440ef
+10	1675	7297783240151078	CMakeFiles/TheAnimalGame.dir/main.cpp.obj	2619f884173ea370
+1675	2410	7297783241501056	TheAnimalGame.exe	b74a8276199440ef
+10	1675	7297784200990499	CMakeFiles/TheAnimalGame.dir/main.cpp.obj	2619f884173ea370
+1676	2396	7297784202380577	TheAnimalGame.exe	b74a8276199440ef

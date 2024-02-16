@@ -12,6 +12,6 @@ C:\Users\soumireL\AppData\Local\JetBrains\Toolbox\apps\CLion-Nova\ch-0\241.11109
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Found nlohmann_json: C:/Users/soumireL/.vcpkg-clion/vcpkg/installed/x64-mingw-static/share/nlohmann_json/nlohmann_jsonConfig.cmake (found version "3.11.3") 
--- Configuring done (3.7s)
+-- Configuring done (4.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/soumireL/Projects/TheAnimalGame/cmake-build-release
