@@ -1,0 +1,7 @@
+# ninja log v5
+18	641	7297766239961987	CMakeFiles/TheAnimalGame.dir/TState.cpp.obj	9e0f8b7fb401ab7f
+14	659	7297766240151944	CMakeFiles/TheAnimalGame.dir/TStateMachine.cpp.obj	df5f7f3e146253f6
+6	1994	7297766253482025	CMakeFiles/TheAnimalGame.dir/main.cpp.obj	2619f884173ea370
+24	2702	7297766260562140	CMakeFiles/TheAnimalGame.dir/TGameStateMachine.cpp.obj	f94306112fb2cedb
+30	5977	7297766293312579	CMakeFiles/TheAnimalGame.dir/TGame.cpp.obj	ac9ad43f38f1a5aa
+5977	6758	7297766294892586	TheAnimalGame.exe	b74a8276199440ef
